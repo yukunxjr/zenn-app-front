@@ -7,6 +7,6 @@ build:
     web: Dockerfile
   config:
     WORKDIR: app
-    API_URL: "https:zennapp-v1-api.herokuapp.com
+    API_URL: "https:zennapp-v1-api.herokuapp.com"
 run:
   web: yarn run start
